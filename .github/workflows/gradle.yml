@@ -24,3 +24,4 @@ jobs:
       run: chmod +x Android_Code/gradlew
     - name: Build with Gradle
       run: ./Android_Code/gradlew build
+    
